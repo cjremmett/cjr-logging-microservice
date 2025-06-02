@@ -1,1 +1,1 @@
-# cjr-logging-microservice
+# logging-microservice
